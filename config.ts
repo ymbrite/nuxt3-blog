@@ -1,15 +1,15 @@
 export default {
   /** -------------------------------------------------以下必须修改----------------------------------------------------- */
 
-  githubName: "<your-github-account-name>", // 必须修改，github账户名
+  githubName: "ymbrite", // 必须修改，github账户名
 
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
-  title: "<your-blog-title>", // 网站标题
-  nickName: "<your-nickname>", // 昵称
+  title: "nuxt3-blog of ym", // 网站标题
+  nickName: "ym", // 昵称
   domain: "https://<your-blog-domain>", // rss域名
-  SEO_title: " - <your-blog-title>", // 搜索引擎显示的标题
-  SEO_keywords: "<your-keywords>", // keywords meta header
+  SEO_title: "blog", // 搜索引擎显示的标题
+  SEO_keywords: "blog", // keywords meta header
   MSClarityId: "", // Microsoft的Clarity统计，https://clarity.microsoft.com/
   CloudflareAnalyze: "", // cloudflare的统计，https://developers.cloudflare.com/analytics/web-analytics
   CommentRepoId: "", // 评论系统，参考 https://github.com/yunyuyuan/nuxt3-blog/wiki/2.3-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F
